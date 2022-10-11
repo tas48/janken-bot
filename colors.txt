@@ -1,0 +1,5 @@
+darker #222831
+dark #393E46
+dark-teal #00ADB5
+teal #00FFF5
+font color #9b9d9f;
